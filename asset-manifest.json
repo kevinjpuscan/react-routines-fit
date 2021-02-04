@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-routines-fit/static/css/main.4ede948f.chunk.css",
+    "main.css": "/react-routines-fit/static/css/main.421b6d2d.chunk.css",
     "main.js": "/react-routines-fit/static/js/main.7ef384e2.chunk.js",
     "main.js.map": "/react-routines-fit/static/js/main.7ef384e2.chunk.js.map",
     "runtime-main.js": "/react-routines-fit/static/js/runtime-main.7fe37361.js",
@@ -10,7 +10,7 @@
     "static/js/3.ee731f59.chunk.js": "/react-routines-fit/static/js/3.ee731f59.chunk.js",
     "static/js/3.ee731f59.chunk.js.map": "/react-routines-fit/static/js/3.ee731f59.chunk.js.map",
     "index.html": "/react-routines-fit/index.html",
-    "static/css/main.4ede948f.chunk.css.map": "/react-routines-fit/static/css/main.4ede948f.chunk.css.map",
+    "static/css/main.421b6d2d.chunk.css.map": "/react-routines-fit/static/css/main.421b6d2d.chunk.css.map",
     "static/js/2.ea2f6672.chunk.js.LICENSE.txt": "/react-routines-fit/static/js/2.ea2f6672.chunk.js.LICENSE.txt",
     "static/media/back.74fb4f72.svg": "/react-routines-fit/static/media/back.74fb4f72.svg",
     "static/media/cross.f507b3d5.svg": "/react-routines-fit/static/media/cross.f507b3d5.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7fe37361.js",
     "static/js/2.ea2f6672.chunk.js",
-    "static/css/main.4ede948f.chunk.css",
+    "static/css/main.421b6d2d.chunk.css",
     "static/js/main.7ef384e2.chunk.js"
   ]
 }
