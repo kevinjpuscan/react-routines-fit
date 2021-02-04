@@ -1,0 +1,37 @@
+.btn {
+  width: 3.5em;
+  height: 3.5em;
+  border-radius: 50%;
+  border: none;
+}
+
+.btn-lg {
+  width: 4em;
+  height: 4em;
+}
+
+.btn-md {
+  width: 3.5em;
+  height: 3.5em;
+}
+
+.btn-sm {
+  width: 2em;
+  height: 2em;
+}
+
+.btn img {
+  width: 40%;
+}
+
+.btn-play img {
+  margin-left: 0.3em;
+}
+
+.btn-primary {
+  background: var(--primary);
+}
+
+.btn-secondary {
+  background: var(--gradient-secondary);
+}

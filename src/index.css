@@ -1,13 +1,31 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --font-title: "Russo One";
+  --font-text: "Roboto";
+
+  --primary: #44ce9c;
+  --primary-dark: #02acab;
+  --secondary: #edcf49;
+  --secondary-dark: #f8ae2b;
+
+  --gray-very-dark: #424b52;
+  --gray-dark: #a3abb1;
+  --gray: #767f86;
+  --gray-light: #eef4f8;
+  --gray-very-light: #fcfcfd;
+
+  --gradient-primary: linear-gradient(180deg, #02acab 0%, #44ce9c 100%);
+  --gradient-secondary: linear-gradient(180deg, #f8ae2b 0%, #edcf49 100%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+main {
+  font-family: var(--font-title);
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
 }

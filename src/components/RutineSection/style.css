@@ -1,0 +1,27 @@
+.rutine-section__name {
+  margin-left: 0.5em;
+  text-align: left;
+  width: 70%;
+  font-family: var(--font-text);
+  color: var(--gray-dark);
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+.rutine-section__detail {
+  display: flex;
+  width: 20%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.right {
+  justify-content: right;
+}
+
+.rutine-section__detail__info {
+  font-family: var(--font-text);
+  color: var(--secondary-dark);
+  font-size: 0.6em;
+  font-style: italic;
+}
