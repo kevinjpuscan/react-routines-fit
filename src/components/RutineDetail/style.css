@@ -1,5 +1,5 @@
 .rutine-detail__header {
-  min-height: 50vh;
+  min-height: 40vh;
   background: var(--gradient-primary);
 }
 
@@ -26,7 +26,7 @@
   font-family: var(--font-title);
   color: white;
   width: 100%;
-  min-height: 30vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -76,6 +76,6 @@
 
 .rutine-detail__sections {
   margin-top: 1em;
-  height: 35vh;
+  height: 43vh;
   overflow: scroll;
 }
